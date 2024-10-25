@@ -3,6 +3,6 @@ groq
 fpdf
 python-dotenv
 langchain
-flask
 gunicorn
-other-dependenciesgunicorn
+
+gunicorn
